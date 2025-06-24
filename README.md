@@ -22,11 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham09876543&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham09876543&show_icons=true&locale=en" alt="shubham09876543" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham09876543&" alt="shubham09876543" /></p>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham09876543/Shubham09876543/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham09876543/Shubham09876543/output/pacman-contribution-graph.svg">
