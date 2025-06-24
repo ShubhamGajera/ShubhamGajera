@@ -21,3 +21,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham09876543&show_icons=true&locale=en" alt="shubham09876543" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham09876543/Shubham09876543/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham09876543/Shubham09876543/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shubham09876543/Shubham09876543/output/pacman-contribution-graph.svg">
+</picture>
