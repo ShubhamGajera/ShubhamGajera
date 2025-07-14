@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shubham09876543&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ShubhamGajera&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -61,10 +61,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Shubham09876543&show_icons=true&theme=react&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham09876543&layout=compact&theme=react" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ShubhamGajera&show_icons=true&theme=react&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGajera&layout=compact&theme=react" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham09876543&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGajera&theme=react" />
 </div>
 
 ---
@@ -72,7 +72,7 @@
 ### 🎮 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham09876543/Shubham09876543/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham09876543/Shubham09876543/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Shubham09876543/Shubham09876543/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhamGajera/ShubhamGajera/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShubhamGajera/ShubhamGajera/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ShubhamGajera/ShubhamGajera/output/pacman-contribution-graph.svg">
 </picture>
