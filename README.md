@@ -64,7 +64,8 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ShubhamGajera&show_icons=true&theme=react&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGajera&layout=compact&theme=react" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGajera&theme=react" />
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=ShubhamGajera&theme=react" />
 </div>
 
 ---
