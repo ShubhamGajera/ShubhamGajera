@@ -19,7 +19,8 @@
 - 💡 Curious about **NLP**, **Computer Vision**, and **AI Automation**
 - 📫 Reach me at: **shubhamgajera200@gmail.com**
 
----
+---<!--   Shubham Gajera    -->
+
 
 ### 🛠️ Skills & Tools
 
@@ -77,4 +78,4 @@
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ShubhamGajera/ShubhamGajera/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- Shubham Gajera -->
+<!--   Shubham Gajera    -->
