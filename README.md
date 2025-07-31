@@ -19,7 +19,7 @@
 - 💡 Curious about **NLP**, **Computer Vision**, and **AI Automation**
 - 📫 Reach me at: **shubhamgajera200@gmail.com**
 
----<!--   Shubham Gajera    -->
+<!--   Shubham Gajera    -->
 
 
 ### 🛠️ Skills & Tools
