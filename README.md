@@ -17,7 +17,7 @@
 - 🧪 Skilled in solving problems using **Python**, **TensorFlow**, **Scikit-learn**, **Pandas**, and more
 - 📊 Love transforming raw data into actionable insights and intelligent models
 - 💡 Curious about **NLP**, **Computer Vision**, and **AI Automation**
-- 📫 Reach me at: **shubhamgajera200@gmail.com**
+- 📫 Reach me at: **shubhamgajera122@gmail.com**
 
 <!--   Shubham Gajera    -->
 
