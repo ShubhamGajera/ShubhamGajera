@@ -12,7 +12,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 **B.Tech in Computer Engineering** from *RK University, Gujarat*
+- 🎓 **B.Tech in Computer Engineering** From *RK University, Gujarat*
 - 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**
 - 🧪 Skilled in solving problems using **Python**, **TensorFlow**, **Scikit-learn**, **Pandas**, and more
 - 📊 Love transforming raw data into actionable insights and intelligent models
