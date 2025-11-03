@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍🎓 About Me
+### About Me
 
 - 🎓 **B.Tech in Computer Engineering** From *RK University, Gujarat*
 - 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**
